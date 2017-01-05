@@ -1,3 +1,4 @@
+#Este es el template
 import sys
 from PyQt4 import QtCore, QtGui, uic
 
